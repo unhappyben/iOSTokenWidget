@@ -34,8 +34,8 @@ Taking inspiration from the Stock iOS widget and using publicly available RPCs a
 4. The widget will update periodically with the latest token price and your balance (if configured).
 
 ## Sample Output
-![IMG_2740](https://github.com/user-attachments/assets/7a6374cf-7d47-43a4-b99e-b609c3009297)
-![IMG_2741](https://github.com/user-attachments/assets/d39193b7-eac1-4849-b889-ec9077b07026)
+![IMG_2740](https://github.com/user-attachments/assets/4107fd5d-eab4-4097-b726-0324c3cd7182)
+![IMG_2741](https://github.com/user-attachments/assets/7b6b2e51-5fd2-4696-bca6-0b507004200d)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
